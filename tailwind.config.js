@@ -8,14 +8,15 @@ module.exports = {
   theme: {
     extend: {
       backgroundColor: {
-        'primary-SoftPink' : 'hsl(333, 80%, 67%)',
         'p-Very-Dark-Magenta' : 'hsl(300, 43%, 22%)',
         'neutral-white' : 'hsl(0, 0%, 100%)',
         'Light-Grayish-Magenta' : 'hsl(300, 24%, 96%)',
       },
       textColor: {
+        'primary-SoftPink' : 'hsl(333, 80%, 67%)',
         'p-Very-Dark-Magenta' : 'hsl(300, 43%, 22%)',
         'neutral-white' : 'hsl(0, 0%, 100%)',
+        'Dark-Grayish-Magenta' : 'hsl(303, 10%, 53%)',
       },
       height: {
         'container' : '550px',

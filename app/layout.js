@@ -1,7 +1,6 @@
 import './globals.css'
 import { Inter, League_Spartan } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
 const leagueSpartan = League_Spartan({ subsets: ['latin'] })
 
 export const metadata = {
